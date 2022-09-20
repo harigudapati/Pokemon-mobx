@@ -10,11 +10,11 @@
 }
 
 .load-more-btn {
-  padding: 1rem 0.5rem;
+  padding: 1rem .5rem;
   background: #48f;
   margin: 2rem auto;
   border: 0;
   cursor: pointer;
-  display: block;
   color: #fff;
+  display: block;
 }
